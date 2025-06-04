@@ -30,6 +30,12 @@ To perform a heuristic evaluation of 2–3 competing websites or apps by analyzi
 
 ## Output:
 
+```
+Created By   : Niraunjana Gayathri G R
+Register No. : 212222230096
+
+```
+
 
 [UIUX_EX_03.pdf](https://github.com/user-attachments/files/20539417/UIUX_EX_03.pdf)
 
